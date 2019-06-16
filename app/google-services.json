@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "519507768987",
+    "firebase_url": "https://hoppejeweller.firebaseio.com",
+    "project_id": "hoppejeweller",
+    "storage_bucket": "hoppejeweller.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519507768987:android:d7e5980309b603a0",
+        "android_client_info": {
+          "package_name": "net.wherelovesparkles.hoppejeweller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519507768987-8d0hkbde3hv2i3h424mq9u0qq4ppiitj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.wherelovesparkles.hoppejeweller",
+            "certificate_hash": "9b84fa41ae16791962ea12d23008938107d2556d"
+          }
+        },
+        {
+          "client_id": "519507768987-a1mpvdsisrf9b4jvts99k8ev98isg4am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPtcEx7nmuSEd0rBMQ6WRWPjsKUBuoH9E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519507768987-a1mpvdsisrf9b4jvts99k8ev98isg4am.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
